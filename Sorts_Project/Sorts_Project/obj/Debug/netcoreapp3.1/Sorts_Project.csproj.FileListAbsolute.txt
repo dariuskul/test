@@ -1,0 +1,11 @@
+C:\Users\Darius\source\repos\Sorts_Project\Sorts_Project\obj\Debug\netcoreapp3.1\Sorts_Project.csprojAssemblyReference.cache
+C:\Users\Darius\source\repos\Sorts_Project\Sorts_Project\obj\Debug\netcoreapp3.1\Sorts_Project.AssemblyInfoInputs.cache
+C:\Users\Darius\source\repos\Sorts_Project\Sorts_Project\obj\Debug\netcoreapp3.1\Sorts_Project.AssemblyInfo.cs
+C:\Users\Darius\source\repos\Sorts_Project\Sorts_Project\bin\Debug\netcoreapp3.1\Sorts_Project.exe
+C:\Users\Darius\source\repos\Sorts_Project\Sorts_Project\bin\Debug\netcoreapp3.1\Sorts_Project.deps.json
+C:\Users\Darius\source\repos\Sorts_Project\Sorts_Project\bin\Debug\netcoreapp3.1\Sorts_Project.runtimeconfig.json
+C:\Users\Darius\source\repos\Sorts_Project\Sorts_Project\bin\Debug\netcoreapp3.1\Sorts_Project.runtimeconfig.dev.json
+C:\Users\Darius\source\repos\Sorts_Project\Sorts_Project\bin\Debug\netcoreapp3.1\Sorts_Project.dll
+C:\Users\Darius\source\repos\Sorts_Project\Sorts_Project\bin\Debug\netcoreapp3.1\Sorts_Project.pdb
+C:\Users\Darius\source\repos\Sorts_Project\Sorts_Project\obj\Debug\netcoreapp3.1\Sorts_Project.dll
+C:\Users\Darius\source\repos\Sorts_Project\Sorts_Project\obj\Debug\netcoreapp3.1\Sorts_Project.pdb
