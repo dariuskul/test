@@ -1,0 +1,5 @@
+﻿  Lygiagretus_Programavimas_LD1B.cpp
+C:\Users\Darius\source\repos\Lygiagretus_Programavimas_LD1B\Lygiagretus_Programavimas_LD1B\Lygiagretus_Programavimas_LD1B.cpp(26,1): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Darius\source\repos\Lygiagretus_Programavimas_LD1B\Lygiagretus_Programavimas_LD1B\Lygiagretus_Programavimas_LD1B.cpp(140,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Darius\source\repos\Lygiagretus_Programavimas_LD1B\Lygiagretus_Programavimas_LD1B\Lygiagretus_Programavimas_LD1B.cpp(143,36): warning C4018: '<': signed/unsigned mismatch
+  Lygiagretus_Programavimas_LD1B.vcxproj -> C:\Users\Darius\source\repos\Lygiagretus_Programavimas_LD1B\Debug\Lygiagretus_Programavimas_LD1B.exe
